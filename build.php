@@ -55,7 +55,7 @@ $colours = array(
 );
 
 
-
+ 
 // --------------------------------------
 // 	Now this is where the hilite builder gets fancy.
 // 	You can take any of the base colours used in the array above and shift them through the colour wheel by degrees
